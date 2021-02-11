@@ -3,6 +3,9 @@
 A set of courses taken in order to be better prepared. Feb - Jun 2021.  
 
 
+## Certificates
+Earned certificates can be checked [here](./certificates/certificates.md).
+
 ## GIT/GITHUB
 
 * https://www.coursera.org/projects/git-and-github  
