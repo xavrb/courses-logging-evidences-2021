@@ -3,16 +3,18 @@
 A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrastructure/devops oriented.  
 
 
-## Certificates
-Earned certificates can be checked [here](./certificates/certificates.md).
 
-## GIT/GITHUB
+## Courses and projects
+
+
+
+### GIT/GITHUB
 
 * https://www.coursera.org/projects/git-and-github  
 * https://www.coursera.org/specializations/oss-development-linux-git  
 * https://www.coursera.org/learn/version-control-with-git    
 
-## DOCKER
+### DOCKER
 
 * https://www.coursera.org/projects/docker-container-essentials-web-app   
 * https://www.coursera.org/projects/docker-fundamentals  
@@ -20,13 +22,13 @@ Earned certificates can be checked [here](./certificates/certificates.md).
 * https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift  
 
 
-## K8S
+### K8S
 
 * https://www.edx.org/es/course/introduction-to-kubernetes  
 * https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat  
 * https://www.coursera.org/projects/container-orchestration-kubernetes    
 
-## PYTHON
+### PYTHON
 
 * https://www.coursera.org/learn/python-crash-course  
 * https://www.coursera.org/specializations/python-3-programming  
@@ -34,23 +36,28 @@ Earned certificates can be checked [here](./certificates/certificates.md).
 * https://www.edx.org/es/course/python-aprender-a-programar   
 
 
-## OCI
+### OCI
 __To be added__  
 
-## GRAFANA  
+### GRAFANA  
 
 * https://www.coursera.org/projects/server-application-monitoring   
 
 
-## ELASTIC STACK  
+### ELASTIC STACK  
 
 * https://www.coursera.org/projects/processing-and-visualizing-logs-with-elastic-stack   
 
-## TERRAFORM  
+### TERRAFORM  
 
 * https://www.coursera.org/projects/aprendiendo-terraform  
 * https://www.coursera.org/projects/terraform-devops-aws-cloud-iac-ec2    
 
-## AWS    
+### AWS    
 
 * https://www.coursera.org/projects/introduction-to-amazon-web-services-aws   
+
+
+
+## Certificates
+Earned certificates can be checked [here](./certificates/certificates.md).
