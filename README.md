@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Courses taken between February and June/July 2021  
 
-You can use the [editor on GitHub](https://github.com/xavrb/courses-logging-evidences-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A set of courses taken in order to be better prepared. Feb - Jun 2021.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## GIT/GITHUB
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* https://www.coursera.org/projects/git-and-github  
+* https://www.coursera.org/specializations/oss-development-linux-git  
+* https://www.coursera.org/learn/version-control-with-git    
 
-```markdown
-Syntax highlighted code block
+## DOCKER
 
-# Header 1
-## Header 2
-### Header 3
+* https://www.coursera.org/projects/docker-container-essentials-web-app   
+* https://www.coursera.org/projects/docker-fundamentals  
+* https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site  
+* https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## K8S
 
-**Bold** and _Italic_ and `Code` text
+* https://www.edx.org/es/course/introduction-to-kubernetes  
+* https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat  
+* https://www.coursera.org/projects/container-orchestration-kubernetes    
 
-[Link](url) and ![Image](src)
-```
+## PYTHON
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* https://www.coursera.org/learn/python-crash-course  
+* https://www.coursera.org/specializations/python-3-programming  
+* https://www.coursera.org/specializations/programming-python-java     
+* https://www.edx.org/es/course/python-aprender-a-programar   
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xavrb/courses-logging-evidences-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## OCI
+__To be added__  
 
-### Support or Contact
+## GRAFANA  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* https://www.coursera.org/projects/server-application-monitoring   
+
+
+## ELASTIC STACK  
+
+* https://www.coursera.org/projects/processing-and-visualizing-logs-with-elastic-stack   
+
+## TERRAFORM  
+
+* https://www.coursera.org/projects/aprendiendo-terraform  
+* https://www.coursera.org/projects/terraform-devops-aws-cloud-iac-ec2    
+
+## AWS    
+
+* https://www.coursera.org/projects/introduction-to-amazon-web-services-aws   
