@@ -2,6 +2,10 @@
 
 A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrastructure/devops oriented. A screenshot will be added in case a certificate is not available to share.    
 
+## WEBINARS  
+
+* https://grafana.com/go/webinar/getting-started-with-grafana/
+
 
 
 ## Courses and projects
