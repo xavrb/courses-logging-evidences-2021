@@ -4,7 +4,8 @@
 
 1. [Webinars](#webinars)
 2. [Courses and projects](#courses-and-projects)
-3. [Certificates](#certificates)
+3. [Books](#books)
+4. [Certificates](#certificates)
 
 
 A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrastructure/devops oriented. A screenshot will be added in case a certificate is not available to share.    
@@ -68,7 +69,9 @@ __To be added__
 
 * https://www.coursera.org/projects/introduction-to-amazon-web-services-aws, [Evidence](./screenshots/screen1.jpg)   
 
+## Books
 
+They may be related to either devops/logging or agile methodologies.  
 
 ## Certificates
 Earned certificates can be checked [here](./certificates/certificates.md).
