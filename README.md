@@ -1,5 +1,12 @@
 # Courses taken between February and June/July 2021  
 
+# Table of contents
+
+1. [Webinars](#webinars)
+2. [Courses and projects](#courses-and-projects)
+3. [Certificates](#certificates)
+
+
 A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrastructure/devops oriented. A screenshot will be added in case a certificate is not available to share.    
 
 ## WEBINARS  
