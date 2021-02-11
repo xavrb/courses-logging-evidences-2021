@@ -11,7 +11,7 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ## WEBINARS  
 
-* https://grafana.com/go/webinar/getting-started-with-grafana/
+* https://grafana.com/go/webinar/getting-started-with-grafana/, [Evidences](https://web.tresorit.com/l/WSxBI#_9JvgBNCtkXtIm62FlVHGQ)  
 
 
 
