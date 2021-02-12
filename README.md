@@ -12,8 +12,8 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ## WEBINARS  
 
-* **[Completed, 11 FEB]** - https://grafana.com/go/webinar/getting-started-with-grafana/, [Evidences](https://web.tresorit.com/l/WSxBI#_9JvgBNCtkXtIm62FlVHGQ)  
-
+* **[Completed, 11 FEB]** [Getting Started with grafana -  Marcus olsson](https://grafana.com/go/webinar/getting-started-with-grafana/), [Evidences](https://web.tresorit.com/l/WSxBI#_9JvgBNCtkXtIm62FlVHGQ)  
+* **[Completed, 12 FEB]** [Docker 101, Jenny Fong](https://www.youtube.com/watch?v=V9IJj4MzZBc), [Evidences](https://web.tresorit.com/l/PRzGL#iK-kdrI0pNOO3BPRAtwxHw)   
 
 
 ## Courses and projects
