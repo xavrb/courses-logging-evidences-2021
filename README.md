@@ -34,8 +34,9 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ### DOCKER
 
+* **[Completed, 14 FEB]** [Docker fundamentals - Anju M Dominic - Coursera ](https://www.coursera.org/projects/docker-fundamentals), [Evidence](https://web.tresorit.com/l/NFkk5#c7Agtwr2rDof0-pU35yN7g)  
+
 * https://www.coursera.org/projects/docker-container-essentials-web-app, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/projects/docker-fundamentals, [Evidence](./screenshots/screen1.jpg)  
 * https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site, [Evidence](./screenshots/screen1.jpg)  
 * https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift, [Evidence](./screenshots/screen1.jpg)  
 
