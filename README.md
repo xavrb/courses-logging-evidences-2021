@@ -27,6 +27,7 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ### PYTHON
 
+* **[Completed, -- FEB]** [Create Python Linux Script to Generate a Disk Usage Report - David Dalsveen - Coursera ](https://www.coursera.org/learn/python-linux-script-disk-usage-report/), [Evidence](./)  
 * https://www.coursera.org/learn/python-crash-course, [Evidence](./screenshots/screen1.jpg)  
 * https://www.coursera.org/specializations/python-3-programming, [Evidence](./screenshots/screen1.jpg)  
 * https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
@@ -34,7 +35,7 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 
 
- 
+
 ### GIT/GITHUB
 
 * https://www.coursera.org/projects/git-and-github, [Evidence](./screenshots/screen1.jpg)  
