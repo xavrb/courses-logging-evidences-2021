@@ -25,7 +25,16 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 ## Courses and projects
 
 
+### PYTHON
 
+* https://www.coursera.org/learn/python-crash-course, [Evidence](./screenshots/screen1.jpg)  
+* https://www.coursera.org/specializations/python-3-programming, [Evidence](./screenshots/screen1.jpg)  
+* https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
+* https://www.edx.org/es/course/python-aprender-a-programar, [Evidence](./screenshots/screen1.jpg)   
+
+
+
+ 
 ### GIT/GITHUB
 
 * https://www.coursera.org/projects/git-and-github, [Evidence](./screenshots/screen1.jpg)  
@@ -46,13 +55,6 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 * https://www.edx.org/es/course/introduction-to-kubernetes, [Evidence](./screenshots/screen1.jpg)  
 * https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat, [Evidence](./screenshots/screen1.jpg)  
 * https://www.coursera.org/projects/container-orchestration-kubernetes, [Evidence](./screenshots/screen1.jpg)    
-
-### PYTHON
-
-* https://www.coursera.org/learn/python-crash-course, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/specializations/python-3-programming, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
-* https://www.edx.org/es/course/python-aprender-a-programar, [Evidence](./screenshots/screen1.jpg)   
 
 
 ### OCI
