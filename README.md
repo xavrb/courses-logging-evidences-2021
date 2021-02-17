@@ -90,7 +90,7 @@ They may be related to either devops/logging or agile methodologies.
 * Rigby, D., Elk, S., & Berez, S. (2020). Doing Agile Right: Transformation Without Chaos. Harvard Business Review Press.  
 * Sutherland, J. (2016). Scrum: El arte de hacer el doble de trabajo en la mitad de tiempo. Océano.  
 * Brikman, Y. (2019). Terraform: Up & Running: Writing Infrastructure as Code. O'Reilly Media.  
-
+* Ligus, S. (2012). Effective Monitoring and Alerting: For Web Operations. O'Reilly Media.  
 
 
 
