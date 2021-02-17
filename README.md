@@ -83,10 +83,19 @@ __To be added__
 
 They may be related to either devops/logging or agile methodologies.  
 
-* Salituro, E. (2020). Learn Grafana 7.0: A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring. Packt Publishing.
-* Kane, S., & Matthias, K. (2018). Docker: Up & Running: Shipping Reliable Containers in Production. O'Reilly Media.
+* Salituro, E. (2020). Learn Grafana 7.0: A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring. Packt Publishing.  
+* Kane, S., & Matthias, K. (2018). Docker: Up & Running: Shipping Reliable Containers in Production. O'Reilly Media.  
+* Lubanovic, B., & Safari, a. (2019). Introducing Python, 2nd Edition. O'Reilly Media, Incorporated.  
+* Kim, G., Humble, J., Debois, P., & Willis, J. (2016). The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations. IT Revolution Press.  
+* Rigby, D., Elk, S., & Berez, S. (2020). Doing Agile Right: Transformation Without Chaos. Harvard Business Review Press.  
+* Sutherland, J. (2016). Scrum: El arte de hacer el doble de trabajo en la mitad de tiempo. Océano.  
+* Brikman, Y. (2019). Terraform: Up & Running: Writing Infrastructure as Code. O'Reilly Media.  
 
- 
+
+
+
+
+
 
 
 
