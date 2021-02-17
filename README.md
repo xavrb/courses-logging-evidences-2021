@@ -84,7 +84,9 @@ __To be added__
 They may be related to either devops/logging or agile methodologies.  
 
 * Salituro, E. (2020). Learn Grafana 7.0: A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring. Packt Publishing.
+* Kane, S., & Matthias, K. (2018). Docker: Up & Running: Shipping Reliable Containers in Production. O'Reilly Media.
 
+ 
 
 
 
