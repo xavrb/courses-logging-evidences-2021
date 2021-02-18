@@ -24,6 +24,12 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ## Courses and projects
 
+### AGILE   
+
+* https://www.coursera.org/learn/agile-atlassian-jira
+
+
+
 
 ### PYTHON
 
