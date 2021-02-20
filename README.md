@@ -26,44 +26,43 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 
 ### AGILE   
 
-* https://www.coursera.org/learn/agile-atlassian-jira
+* Course, in progress: https://www.coursera.org/learn/agile-atlassian-jira
 
 
 
 
 ### PYTHON
 
-* **[Completed, 15 FEB]** [Create Python Linux Script to Generate a Disk Usage Report - David Dalsveen - Coursera ](https://www.coursera.org/learn/python-linux-script-disk-usage-report/), [Evidence](https://web.tresorit.com/l/ucmKr#pRYDvEV77yeEanFDKq5RPw)  
+* __Project__ **[Completed, 15 FEB]** [Create Python Linux Script to Generate a Disk Usage Report - David Dalsveen - Coursera ](https://www.coursera.org/learn/python-linux-script-disk-usage-report/), [Evidence](https://web.tresorit.com/l/ucmKr#pRYDvEV77yeEanFDKq5RPw)  
 * **[Started: 15 Feb 21 -  Completed: 18 Feb]** [Python: Aprender a programar, Leonardo Salomn, EDX](https://learning.edx.org/course/course-v1:UPValenciaX+PY101x+2T2020/), [Evidence (edX certificate)](https://courses.edx.org/certificates/fe69fd7f39a44d6a80eef5e01ce9117a)
-* https://www.coursera.org/learn/python-crash-course, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/specializations/python-3-programming, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
+* __To be taken__ https://www.coursera.org/learn/python-crash-course, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/specializations/python-3-programming, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
 
 
 ### Javascript
-* **[Completed, 20 FEB]** [Introduction to Javascript: The Basics - Khaled M. Attia - Coursera ](https://www.coursera.org/learn/intro-to-javascript-the-basics/), [Evidence](https://web.tresorit.com/l/mkCUW#9wbtUyISY_psZ6FwnnNL6g)
+* __Project__ **[Completed, 20 FEB]** [Introduction to Javascript: The Basics - Khaled M. Attia - Coursera ](https://www.coursera.org/learn/intro-to-javascript-the-basics/), [Evidence](https://web.tresorit.com/l/mkCUW#9wbtUyISY_psZ6FwnnNL6g)
 
 
 ### GIT/GITHUB
 
-* https://www.coursera.org/projects/git-and-github, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/specializations/oss-development-linux-git, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/learn/version-control-with-git, [Evidence](./screenshots/screen1.jpg)    
+* __To be taken__ https://www.coursera.org/projects/git-and-github, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/specializations/oss-development-linux-git, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/learn/version-control-with-git, [Evidence](./screenshots/screen1.jpg)    
 
 ### DOCKER
 
-* **[Completed, 14 FEB]** [Docker fundamentals - Anju M Dominic - Coursera ](https://www.coursera.org/projects/docker-fundamentals), [Evidence](https://web.tresorit.com/l/NFkk5#c7Agtwr2rDof0-pU35yN7g)  
-
-* https://www.coursera.org/projects/docker-container-essentials-web-app, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift, [Evidence](./screenshots/screen1.jpg)  
+* __Project__ **[Completed, 14 FEB]** [Docker fundamentals - Anju M Dominic - Coursera ](https://www.coursera.org/projects/docker-fundamentals), [Evidence](https://web.tresorit.com/l/NFkk5#c7Agtwr2rDof0-pU35yN7g)  
+* __To be taken__ https://www.coursera.org/projects/docker-container-essentials-web-app, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift, [Evidence](./screenshots/screen1.jpg)  
 
 
 ### K8S
 
-* https://www.edx.org/es/course/introduction-to-kubernetes, [Evidence](./screenshots/screen1.jpg)  
-* https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/projects/container-orchestration-kubernetes, [Evidence](./screenshots/screen1.jpg)    
+* __To be taken__ https://www.edx.org/es/course/introduction-to-kubernetes, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/projects/container-orchestration-kubernetes, [Evidence](./screenshots/screen1.jpg)    
 
 
 ### OCI
@@ -71,21 +70,21 @@ __To be added__
 
 ### GRAFANA  
 
-* https://www.coursera.org/projects/server-application-monitoring, [Evidence](./screenshots/screen1.jpg)   
+* __To be taken__ https://www.coursera.org/projects/server-application-monitoring, [Evidence](./screenshots/screen1.jpg)   
 
 
 ### ELASTIC STACK  
 
-* https://www.coursera.org/projects/processing-and-visualizing-logs-with-elastic-stack, [Evidence](./screenshots/screen1.jpg)   
+* __To be taken__ https://www.coursera.org/projects/processing-and-visualizing-logs-with-elastic-stack, [Evidence](./screenshots/screen1.jpg)   
 
 ### TERRAFORM  
 
-* https://www.coursera.org/projects/aprendiendo-terraform, [Evidence](./screenshots/screen1.jpg)  
-* https://www.coursera.org/projects/terraform-devops-aws-cloud-iac-ec2, [Evidence](./screenshots/screen1.jpg)    
+* __To be taken__ https://www.coursera.org/projects/aprendiendo-terraform, [Evidence](./screenshots/screen1.jpg)  
+* __To be taken__ https://www.coursera.org/projects/terraform-devops-aws-cloud-iac-ec2, [Evidence](./screenshots/screen1.jpg)    
 
 ### AWS    
 
-* https://www.coursera.org/projects/introduction-to-amazon-web-services-aws, [Evidence](./screenshots/screen1.jpg)   
+* __To be taken__ https://www.coursera.org/projects/introduction-to-amazon-web-services-aws, [Evidence](./screenshots/screen1.jpg)   
 
 ## Books
 
