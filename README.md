@@ -40,6 +40,8 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 * https://www.coursera.org/specializations/programming-python-java, [Evidence](./screenshots/screen1.jpg)     
 
 
+### Javascript
+* **[Completed, 20 FEB]** [Introduction to Javascript: The Basics - Khaled M. Attia - Coursera ](https://www.coursera.org/learn/intro-to-javascript-the-basics/), [Evidence](https://web.tresorit.com/l/mkCUW#9wbtUyISY_psZ6FwnnNL6g)
 
 
 ### GIT/GITHUB
