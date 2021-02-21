@@ -55,11 +55,10 @@ A set of courses taken in order to be better prepared. Feb - Jun 2021 -- infrast
 * __Project__ **[Completed, 14 FEB]** [Docker fundamentals - Anju M Dominic - Coursera ](https://www.coursera.org/projects/docker-fundamentals), [Evidence](https://web.tresorit.com/l/NFkk5#c7Agtwr2rDof0-pU35yN7g)  
 * __To be taken__ https://www.coursera.org/projects/docker-container-essentials-web-app, [Evidence](./screenshots/screen1.jpg)  
 * __To be taken__ https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site, [Evidence](./screenshots/screen1.jpg)  
-* __To be taken__ https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift, [Evidence](./screenshots/screen1.jpg)  
 
 
 ### K8S
-
+* __Course, in progress:__ [Introduction to Containers, Kubernetes, and OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift), [Evidence](./screenshots/screen1.jpg)  
 * __To be taken__ https://www.edx.org/es/course/introduction-to-kubernetes, [Evidence](./screenshots/screen1.jpg)  
 * __To be taken__ https://www.edx.org/es/course/fundamentals-of-containers-kubernetes-and-red-hat, [Evidence](./screenshots/screen1.jpg)  
 * __To be taken__ https://www.coursera.org/projects/container-orchestration-kubernetes, [Evidence](./screenshots/screen1.jpg)    
